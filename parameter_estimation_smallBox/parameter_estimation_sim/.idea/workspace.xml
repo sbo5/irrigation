@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ce638e3-c512-429a-8ec2-494b3e557de2" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/0_Parameter_Estimation_Corrected$model_1D_forceTo0.coverage" NAME="model_1D_forceTo0 Coverage Results" MODIFIED="1533601354884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_K_htop_$para_est_V2__1_.coverage" NAME="para_est_V2 (1) Coverage Results" MODIFIED="1535404223251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_Better_Model_Windows$para_est.coverage" NAME="para_est Coverage Results" MODIFIED="1534210502208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_K_htop_$para_est_V2.coverage" NAME="para_est_V2 Coverage Results" MODIFIED="1535403861535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OtherCodes" />
+    <SUITE FILE_PATH="coverage/0_Parameter_Estimation_Corrected$plot_graphs_different_time_steps.coverage" NAME="plot_graphs_different_time_steps Coverage Results" MODIFIED="1533443554087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/0_Parameter_Estimation_Corrected$state_est.coverage" NAME="state_est Coverage Results" MODIFIED="1533748118700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/parameter_estimation_sim$model_FDM_explicit__CasADi.coverage" NAME="model_FDM_explicit _CasADi Coverage Results" MODIFIED="1541040319547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_K_htop_$model_TopToBot___BoundaryPieceWiseConstant.coverage" NAME="model_TopToBot - BoundaryPieceWiseConstant Coverage Results" MODIFIED="1534999771009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_K_htop_$model_BotToTop.coverage" NAME="model_BotToTop Coverage Results" MODIFIED="1535145791825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/parameter_estimation_sim$model_numpy.coverage" NAME="model_numpy Coverage Results" MODIFIED="1540181333577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/parameter_estimation_sim$para_est_singleShooting.coverage" NAME="para_est_singleShooting Coverage Results" MODIFIED="1541481288830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/parameter_estimation_sim$model_numpy_3D_element_badFormation_faster__1_.coverage" NAME="model_numpy_3D_element_badFormation_faster (1) Coverage Results" MODIFIED="1541612614646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox" />
+    <SUITE FILE_PATH="coverage/0_Parameter_Estimation_Corrected$central_FDM_explicit_para_est_casadi_1D_scaled_irrigation_robust_2683.coverage" NAME="central_FDM_explicit_para_est_casadi_1D_scaled_irrigation_robust_2683 Coverage Results" MODIFIED="1533443537782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/parameter_estimation_sim$model_casadi_3D_element_periodicIRR.coverage" NAME="model_casadi_3D_element_periodicIRR Coverage Results" MODIFIED="1541616294038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_Better_Model_Windows$model_TopToBot.coverage" NAME="model_TopToBot Coverage Results" MODIFIED="1534804805295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_Better_Model_Windows$para_est__V2.coverage" NAME="para_est _V2 Coverage Results" MODIFIED="1534207397684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/parameter_estimation_sim$model_numpy_1D.coverage" NAME="model_numpy_1D Coverage Results" MODIFIED="1541045071951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_K_htop_$model_TopToBot_original.coverage" NAME="model_TopToBot_original Coverage Results" MODIFIED="1535049586102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_Better_Model_Windows$model_sensitivity_analysis.coverage" NAME="model_sensitivity_analysis Coverage Results" MODIFIED="1534122864605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_Better_Model_Windows$model_plot_for_compare_TopToBot.coverage" NAME="model_plot_for_compare_TopToBot Coverage Results" MODIFIED="1534197968370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_K_htop_$checkKFunAndCFun.coverage" NAME="checkKFunAndCFun Coverage Results" MODIFIED="1535413786223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/0_Parameter_Estimation_Corrected$para_est.coverage" NAME="para_est Coverage Results" MODIFIED="1533746000104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_Better_Model_Windows$para_est_V2.coverage" NAME="para_est_V2 Coverage Results" MODIFIED="1534354670909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_Better_Model_Windows$model_plot_for_compare.coverage" NAME="model_plot_for_compare Coverage Results" MODIFIED="1534210107491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_K_htop__Sim$model_casadi.coverage" NAME="model_casadi Coverage Results" MODIFIED="1536724803046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_Better_Model$model_plot_for_compare_TopToBot.coverage" NAME="model_plot_for_compare_TopToBot Coverage Results" MODIFIED="1533944277780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_K_htop_$model_TopToBot_maxPondHeight.coverage" NAME="model_TopToBot_maxPondHeight Coverage Results" MODIFIED="1535131342744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_K_htop_$model_TopToBot.coverage" NAME="model_TopToBot Coverage Results" MODIFIED="1536184733750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_Better_Model$para_est.coverage" NAME="para_est Coverage Results" MODIFIED="1533828259319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/0_Parameter_Estimation_Corrected$model_1D.coverage" NAME="model_1D Coverage Results" MODIFIED="1533441893032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/parameter_estimation_sim$model_numpy_3D.coverage" NAME="model_numpy_3D Coverage Results" MODIFIED="1541044971419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_K_htop__Sim$para_est_singleShooting_oldVersion.coverage" NAME="para_est_singleShooting_oldVersion Coverage Results" MODIFIED="1536338037283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/parameter_estimation_sim$model_casadi_3D_element__1_.coverage" NAME="model_casadi_3D_element (1) Coverage Results" MODIFIED="1541613148924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_Better_Model_Windows$model_plot_for_compare_TopToBot_he.coverage" NAME="model_plot_for_compare_TopToBot_he Coverage Results" MODIFIED="1534112446874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_K_htop__Sim$model_TopToBot.coverage" NAME="model_TopToBot Coverage Results" MODIFIED="1536699186213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_K_htop_$model_BotToTop_DzEqualToNodes.coverage" NAME="model_BotToTop_DzEqualToNodes Coverage Results" MODIFIED="1535148089213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_Better_Model_Windows$f.coverage" NAME="f Coverage Results" MODIFIED="1534348911789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_K_htop_$model_TopToBot_BoundaryPieceWiseConstant.coverage" NAME="model_TopToBot_BoundaryPieceWiseConstant Coverage Results" MODIFIED="1535135385338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_K_htop_$cstr_parameter_estimation_collocation_example_2.coverage" NAME="cstr_parameter_estimation_collocation_example_2 Coverage Results" MODIFIED="1535751791742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/0_Parameter_Estimation_Corrected$model_1D_2topBoundaries.coverage" NAME="model_1D_2topBoundaries Coverage Results" MODIFIED="1533599933412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_K_htop__Sim$para_est_singleShooting.coverage" NAME="para_est_singleShooting Coverage Results" MODIFIED="1536680846550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_Better_Model$model_plot_for_compare.coverage" NAME="model_plot_for_compare Coverage Results" MODIFIED="1533942977424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/parameter_estimation_sim$model_casadi_3D_element.coverage" NAME="model_casadi_3D_element Coverage Results" MODIFIED="1541479974670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/0_Parameter_Estimation_Corrected$model_plot_for_compare.coverage" NAME="model_plot_for_compare Coverage Results" MODIFIED="1533748508433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/parameter_estimation_sim$model_numpy_3D_element_betterFormation__1_.coverage" NAME="model_numpy_3D_element_betterFormation (1) Coverage Results" MODIFIED="1541612616440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox" />
+    <SUITE FILE_PATH="coverage/parameter_estimation_sim$model_casadi_3D_element_constantIRR.coverage" NAME="model_casadi_3D_element_constantIRR Coverage Results" MODIFIED="1541629419381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_K_htop_$para_est.coverage" NAME="para_est Coverage Results" MODIFIED="1535399286062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/parameter_estimation_sim$model_numpy_3D_element_badFormation_faster.coverage" NAME="model_numpy_3D_element_badFormation_faster Coverage Results" MODIFIED="1541479892760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_K_htop_$model_casadi.coverage" NAME="model_casadi Coverage Results" MODIFIED="1536184809038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_K_htop__Sim$para_est_collocation.coverage" NAME="para_est_collocation Coverage Results" MODIFIED="1536284725872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/parameter_estimation_sim$model_numpy_3D_vectorized.coverage" NAME="model_numpy_3D_vectorized Coverage Results" MODIFIED="1541047648221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_K_htop_$para_est_collocation.coverage" NAME="para_est_collocation Coverage Results" MODIFIED="1535751149142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_K_htop_$model_TopToBot___Copy.coverage" NAME="model_TopToBot - Copy Coverage Results" MODIFIED="1534999637271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_Parameter_Estimation_Better_Model_Windows$model_TopToBot_hpond.coverage" NAME="model_TopToBot_hpond Coverage Results" MODIFIED="1534363389048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/parameter_estimation_sim$model_numpy_3D_element.coverage" NAME="model_numpy_3D_element Coverage Results" MODIFIED="1541047771143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="704990529">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="12" />
+          <entry key="model_casadi_3D_element" value="7" />
+          <entry key="py" value="442" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="Python" value="449" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox/model_casadi_3D_element_constantIRR.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5508">
+              <caret line="333" selection-start-line="333" selection-end-line="333" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox/model_numpy_3D_element_badFormation_faster.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="367" column="51" selection-start-line="367" selection-start-column="51" selection-end-line="367" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>zeros</find>
+      <find>theta_e</find>
+      <find>lbg</find>
+      <find>pars</find>
+      <find>jit</find>
+      <find>thetaS</find>
+      <find>getOutputs</find>
+      <find>K</find>
+      <find>measured</find>
+      <find>dt</find>
+      <find>mini</find>
+      <find>thetaIni</find>
+      <find>objective</find>
+      <find>pub</find>
+      <find>theta_i_opt</find>
+      <find>sum1</find>
+      <find>psiTopFun</find>
+      <find>thetaFun1</find>
+      <find>SX</find>
+      <find>time</find>
+      <find>time`</find>
+      <find>ini_state</find>
+      <find>ini_state_np</find>
+      <find>p_init</find>
+      <find>y_exp</find>
+      <find>[1, 1, 1, 1, 1]</find>
+      <find>layersOfSensors</find>
+      <find>GBot</find>
+      <find>ini_state_np_botToTop</find>
+      <find>CMatrix</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>50</replace>
+      <replace>20</replace>
+      <replace>6</replace>
+      <replace>(1-1/(p[4]*pars['n']+mini))</replace>
+      <replace>-1</replace>
+      <replace>/dt/ratio_t</replace>
+      <replace>len(timeList)</replace>
+      <replace>len(timeList_original)</replace>
+      <replace>x</replace>
+      <replace>u</replace>
+      <replace>tanh</replace>
+      <replace>sign</replace>
+      <replace>nk</replace>
+      <replace>SX.fabs</replace>
+      <replace>r</replace>
+      <replace>np.zeros</replace>
+      <replace>theta`_exp</replace>
+      <replace>p</replace>
+      <replace>numpy</replace>
+      <replace>casadi</replace>
+      <replace>h</replace>
+      <replace>pars['mini']</replace>
+      <replace>y_ini</replace>
+      <replace>y_init</replace>
+      <replace>state_cost</replace>
+      <replace>stage_cost</replace>
+      <replace>p_max</replace>
+      <replace>theta_opt</replace>
+      <replace>thetaFun_nofabs</replace>
+      <replace>p_init</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/central_FDM_explicit_para_est_casadi_1D_scaled_irrigation_robust_2683.py" />
+        <option value="$PROJECT_DIR$/model_1D_2topBoundaries.py" />
+        <option value="$PROJECT_DIR$/model_1D_forceTo0.py" />
+        <option value="$PROJECT_DIR$/farm_1D_robust.py" />
+        <option value="$PROJECT_DIR$/state_est.py" />
+        <option value="$PROJECT_DIR$/model_plot_for_compare_TopToBot_he.py" />
+        <option value="$PROJECT_DIR$/model_sensitivity_analysis.py" />
+        <option value="$PROJECT_DIR$/model_plot_for_compare_TopToBot.py" />
+        <option value="$PROJECT_DIR$/para_est _V2.py" />
+        <option value="$PROJECT_DIR$/model_plot_for_compare.py" />
+        <option value="$PROJECT_DIR$/hPondFile" />
+        <option value="$PROJECT_DIR$/f.py" />
+        <option value="$PROJECT_DIR$/Iterative_Cal_hTop.py" />
+        <option value="$PROJECT_DIR$/model_TopToBot_cmperhr.py" />
+        <option value="$PROJECT_DIR$/OtherModels/TankExample/tank_parameter_estimation_collocation_example_2.py" />
+        <option value="$PROJECT_DIR$/para_est_V2.py" />
+        <option value="$PROJECT_DIR$/model_TopToBot_hpond.py" />
+        <option value="$PROJECT_DIR$/model_TopToBot - Copy.py" />
+        <option value="$PROJECT_DIR$/model_TopToBot - BoundaryPieceWiseConstant.py" />
+        <option value="$PROJECT_DIR$/model_TopToBot_original.py" />
+        <option value="$PROJECT_DIR$/model_TopToBot_maxPondHeight.py" />
+        <option value="$PROJECT_DIR$/model_TopToBot_BoundaryPieceWiseConstant.py" />
+        <option value="$PROJECT_DIR$/model_BotToTop.py" />
+        <option value="$PROJECT_DIR$/../backups/1.Parameter_Estimation_K(htop)_Aug22_2018/model_BotToTop.py" />
+        <option value="$PROJECT_DIR$/model_BotToTop_DzEqualToNodesPlusOne.py" />
+        <option value="$PROJECT_DIR$/model_BotToTop_DzEqualToNodes.py" />
+        <option value="$PROJECT_DIR$/checkKFunAndCFun.py" />
+        <option value="$PROJECT_DIR$/sim_results_1D_farm_robust" />
+        <option value="$PROJECT_DIR$/cstr_parameter_estimation_collocation_example_2.py" />
+        <option value="$PROJECT_DIR$/OtherCodes/para_est_V2.py" />
+        <option value="$PROJECT_DIR$/para_est.py" />
+        <option value="$PROJECT_DIR$/para_est_singleShooting_oldVersion.py" />
+        <option value="$PROJECT_DIR$/model_TopToBot.py" />
+        <option value="$PROJECT_DIR$/para_est_collocation.py" />
+        <option value="$PROJECT_DIR$/model_casadi.py" />
+        <option value="$PROJECT_DIR$/model_numpy.py" />
+        <option value="$PROJECT_DIR$/model_numpy_3D.py" />
+        <option value="$PROJECT_DIR$/model_FDM_explicit _CasADi.py" />
+        <option value="$PROJECT_DIR$/model_numpy_3D element.py" />
+        <option value="$PROJECT_DIR$/model_numpy_1D.py" />
+        <option value="$PROJECT_DIR$/model_numpy_3D_element.py" />
+        <option value="$PROJECT_DIR$/model_numpy_3D_vectorized.py" />
+        <option value="$PROJECT_DIR$/model_casadi_1D.py" />
+        <option value="$PROJECT_DIR$/model_numpy_3D_element_badFormation_faster.py" />
+        <option value="$PROJECT_DIR$/para_est_singleShooting.py" />
+        <option value="$PROJECT_DIR$/model_casadi_3D_element.py" />
+        <option value="$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox/model_numpy_3D_element_betterFormation.py" />
+        <option value="$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox/model_casadi_3D_element.py" />
+        <option value="$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox/model_casadi_3D_element_periodicIRR.py" />
+        <option value="$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox/model_casadi_3D_element_constantIRR.py" />
+        <option value="$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox/model_numpy_3D_element_badFormation_faster.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1241" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="parameter_estimation_sim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parameter_estimation_sim" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parameter_estimation_sim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parameter_estimation_sim" type="462c0819:PsiDirectoryNode" />
+              <item name="Task1_design_irrigation_schedule_for_smallBox" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Google Drive\Documents\PycharmProjects\parameter_estimation\1.Parameter_Estimation_K(htop)" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.model_numpy_3D_element_badFormation_faster">
+    <configuration name="model_casadi_3D_element (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="0.Parameter_Estimation_Corrected" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Google Drive\Projects_Codes\PycharmProjects\parameter_estimation_smallBox\parameter_estimation_sim\Task1_design_irrigation_schedule_for_smallBox\model_casadi_3D_element_constantIRR.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model_casadi_3D_element" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="0.Parameter_Estimation_Corrected" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Google Drive\Projects_Codes\PycharmProjects\parameter_estimation_smallBox\parameter_estimation_sim\Task1_design_irrigation_schedule_for_smallBox\model_casadi_3D_element_constantIRR.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model_casadi_3D_element_constantIRR" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="0.Parameter_Estimation_Corrected" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox/model_casadi_3D_element_constantIRR.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model_casadi_3D_element_periodicIRR" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="0.Parameter_Estimation_Corrected" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox/model_casadi_3D_element_periodicIRR.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model_numpy_3D_element_badFormation_faster" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="0.Parameter_Estimation_Corrected" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox/model_numpy_3D_element_badFormation_faster.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.model_casadi_3D_element" />
+      <item itemvalue="Python.model_casadi_3D_element (1)" />
+      <item itemvalue="Python.model_numpy_3D_element_badFormation_faster" />
+      <item itemvalue="Python.model_casadi_3D_element_periodicIRR" />
+      <item itemvalue="Python.model_casadi_3D_element_constantIRR" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.model_numpy_3D_element_badFormation_faster" />
+        <item itemvalue="Python.model_casadi_3D_element_constantIRR" />
+        <item itemvalue="Python.model_casadi_3D_element_constantIRR" />
+        <item itemvalue="Python.model_casadi_3D_element_periodicIRR" />
+        <item itemvalue="Python.model_casadi_3D_element_periodicIRR" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ce638e3-c512-429a-8ec2-494b3e557de2" name="Default" comment="" />
+      <created>1533335014508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533335014508</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6736215" visible="true" weight="0.26812366" />
+      <window_info id="Structure" order="1" sideWeight="0.32637855" side_tool="true" weight="0.16935484" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32893288" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.4995823" weight="0.3625541" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32792208" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.5004177" side_tool="true" weight="0.3632353" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="9" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32792208" />
+      <window_info anchor="bottom" id="Run" order="12" weight="0.30952382" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+      <window_info anchor="right" x="283" y="65" width="394" height="909" id="SciView" order="4" sideWeight="0.5784469" visible="true" weight="0.20735608" />
+      <window_info anchor="right" x="0" y="0" width="430" height="840" id="Documentation" order="5" sideWeight="0.4215531" side_tool="true" weight="0.32622603" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6736215" visible="true" weight="0.25959933" />
+      <window_info id="Structure" order="1" sideWeight="0.32637855" side_tool="true" weight="0.16935484" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32893288" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.4995823" weight="0.3632353" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32794118" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.5004177" side_tool="true" weight="0.3632353" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.33382353" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32794118" />
+      <window_info active="true" anchor="bottom" id="Run" order="12" visible="true" weight="0.31029412" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+      <window_info anchor="right" x="283" y="65" width="394" height="909" id="SciView" order="4" sideWeight="0.5784469" visible="true" weight="0.0884808" />
+      <window_info anchor="right" x="0" y="0" width="430" height="840" id="Documentation" order="5" sideWeight="0.4215531" side_tool="true" weight="0.32622603" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url />
+          <line>275</line>
+          <option name="timeStamp" value="671" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url />
+          <line>183</line>
+          <option name="timeStamp" value="672" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url />
+          <line>144</line>
+          <option name="timeStamp" value="705" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url />
+          <line>204</line>
+          <option name="timeStamp" value="720" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url />
+          <line>372</line>
+          <option name="timeStamp" value="781" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url />
+          <line>444</line>
+          <option name="timeStamp" value="791" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url />
+          <line>242</line>
+          <option name="timeStamp" value="795" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_TopToBot.py</url>
+          <line>265</line>
+          <option name="timeStamp" value="827" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/para_est_singleShooting.py</url>
+          <line>404</line>
+          <option name="timeStamp" value="828" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_numpy.py</url>
+          <line>406</line>
+          <option name="timeStamp" value="835" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_numpy.py</url>
+          <line>627</line>
+          <option name="timeStamp" value="837" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_numpy.py</url>
+          <line>299</line>
+          <option name="timeStamp" value="838" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_numpy_3D_vectorized.py</url>
+          <line>442</line>
+          <option name="timeStamp" value="850" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_numpy_3D_vectorized.py</url>
+          <line>152</line>
+          <option name="timeStamp" value="852" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_casadi_3D_element.py</url>
+          <line>484</line>
+          <option name="timeStamp" value="858" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_casadi_3D_element.py</url>
+          <line>486</line>
+          <option name="timeStamp" value="859" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_numpy_3D_element_badFormation_faster.py</url>
+          <line>271</line>
+          <option name="timeStamp" value="861" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_casadi_3D_element.py</url>
+          <line>193</line>
+          <option name="timeStamp" value="862" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox/model_casadi_3D_element_constantIRR.py</url>
+          <line>333</line>
+          <option name="timeStamp" value="864" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox/model_casadi_3D_element_constantIRR.py</url>
+          <line>334</line>
+          <option name="timeStamp" value="865" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="i" language="Python" />
+        <watch expression="h" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>h</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>q</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>hPond</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Ksur</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>psi[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../backups/1.Parameter_Estimation_K(htop)_Aug22_2018/model_TopToBot_original.py" />
+    <entry file="file://$PROJECT_DIR$/../backups/1.Parameter_Estimation_K(htop)_Aug23_2018/model_TopToBot_original.py" />
+    <entry file="file://$PROJECT_DIR$/../backups/1.Parameter_Estimation_K(htop)_Aug23_2018/model_TopToBot.py" />
+    <entry file="file://$PROJECT_DIR$/model_TopToBot_original.py" />
+    <entry file="file://$PROJECT_DIR$/model_TopToBot_BoundaryPieceWiseConstant.py" />
+    <entry file="file://$PROJECT_DIR$/model_TopToBot_maxPondHeight.py" />
+    <entry file="file://$PROJECT_DIR$/model_BotToTop.py" />
+    <entry file="file://$PROJECT_DIR$/../backups/1.Parameter_Estimation_K(htop)_Aug22_2018/model_BotToTop.py" />
+    <entry file="file://$PROJECT_DIR$/model_BotToTop_DzEqualToNodesPlusOne.py" />
+    <entry file="file://$PROJECT_DIR$/../backups/1.Parameter_Estimation_K(htop)_Aug24_2018/model_TopToBot_BoundaryPieceWiseConstant.py" />
+    <entry file="file://$PROJECT_DIR$/OtherCodes/para_est.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pictures/Different_Initial_Guess/Loam/Loam.png" />
+    <entry file="file://$PROJECT_DIR$/Pictures/Different_Initial_Guess/Loam/theta_1_4Nodes.png" />
+    <entry file="file://$PROJECT_DIR$/Pictures/Simulated_experiment/one_step_test/30%_initial_condition/1_day/theta_1.png" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp05913/home/sbo/Parameter_estimation/para_est_collocation.py" />
+    <entry file="file://$PROJECT_DIR$/Pictures/Model_Loam/theta_1.png" />
+    <entry file="file://$PROJECT_DIR$/cstr_parameter_estimation_collocation_example_2.py" />
+    <entry file="file://$PROJECT_DIR$/model_BotToTop_DzEqualToNodes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="161" selection-start-line="161" selection-end-line="161" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pictures/1.png" />
+    <entry file="file://$PROJECT_DIR$/Pictures/2.png" />
+    <entry file="file://$PROJECT_DIR$/Pictures/AvgThetaExplicitOrGetItFromAveragedH.png" />
+    <entry file="file://$USER_HOME$/anaconda2/lib/python2.7/site-packages/casadi/casadi.py" />
+    <entry file="file://$PROJECT_DIR$/OtherCodes/para_est_V2.py" />
+    <entry file="file://$PROJECT_DIR$/para_est.py" />
+    <entry file="file://$PROJECT_DIR$/sim_results_1D_farm_robust">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11801">
+          <caret column="26" selection-start-column="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/para_est_singleShooting_oldVersion.py" />
+    <entry file="file://$PROJECT_DIR$/Pictures/Para_est_results/60%_on_bounds_0.9_on_initial_decreased_tol/Figure_2.png" />
+    <entry file="file://D:/Documents/Anaconda/Lib/site-packages/scipy/integrate/odepack.py" />
+    <entry file="file://$PROJECT_DIR$/model_TopToBot.py" />
+    <entry file="file://D:/Documents/Anaconda/Lib/site-packages/casadi/casadi.py" />
+    <entry file="file://$PROJECT_DIR$/model_numpy.py" />
+    <entry file="file://$PROJECT_DIR$/model_mpctools_3D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="177" column="23" selection-start-line="177" selection-start-column="23" selection-end-line="177" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkKFunAndCFun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="132" column="52" selection-start-line="132" selection-start-column="33" selection-end-line="132" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda2/lib/python2.7/site-packages/scipy/integrate/odepack.py" />
+    <entry file="file://$PROJECT_DIR$/model_casadi.py" />
+    <entry file="file://$PROJECT_DIR$/model_numpy_1D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="360" column="13" selection-start-line="360" selection-start-column="13" selection-end-line="360" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_numpy_3D_element.py" />
+    <entry file="file://$PROJECT_DIR$/model_numpy_3D_vectorized.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="522" column="28" selection-start-line="522" selection-start-column="28" selection-end-line="522" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_numpy_3D_element_betterFormation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_casadi_1D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2794">
+          <caret line="27" column="120" selection-start-line="27" selection-start-column="120" selection-end-line="27" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_numpy_3D_element_badFormation_faster.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="793">
+          <caret line="177" selection-start-line="177" selection-end-line="177" />
+          <folding>
+            <element signature="e#171#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/para_est_collocation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2194">
+          <caret line="322" column="13" selection-start-line="322" selection-start-column="13" selection-end-line="322" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/para_est_singleShooting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="407" column="18" selection-start-line="407" selection-start-column="18" selection-end-line="407" selection-end-column="18" />
+          <folding>
+            <element signature="e#289#330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_casadi_3D_element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="493" column="24" selection-start-line="493" selection-start-column="24" selection-end-line="493" selection-end-column="24" />
+          <folding>
+            <element signature="e#230#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox/model_numpy_3D_vectorized.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox/model_casadi_3D_vectorized.py" />
+    <entry file="file://$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox/model_numpy_3D_element_betterFormation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="366" column="41" lean-forward="true" selection-start-line="366" selection-start-column="41" selection-end-line="366" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox/model_casadi_3D_element_periodicIRR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="414" column="34" lean-forward="true" selection-start-line="413" selection-start-column="24" selection-end-line="414" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox/model_casadi_3D_element_constantIRR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5508">
+          <caret line="333" selection-start-line="333" selection-end-line="333" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task1_design_irrigation_schedule_for_smallBox/model_numpy_3D_element_badFormation_faster.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="367" column="51" selection-start-line="367" selection-start-column="51" selection-end-line="367" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
